@@ -2,16 +2,7 @@
 
 All in one Information gathering tool - OSINT
 
-*For a full list of our tools, please visit our website https://www.twelvesec.com/*
 
-Written by:
-
-* [maldevel](https://github.com/maldevel) ([twitter](https://twitter.com/maldevel))
-* [mikismaos](https://github.com/mikismaos)
-* [xvass](https://github.com/xen0vas)
-* [ndamoulianos](https://github.com/ndamoulianos)
-* [sbrb](https://github.com/sbrb)
----
 
 ### Dependencies
 
@@ -77,9 +68,6 @@ ___________              .__                _________
 
 GasMasK v. 2.0 - All in one Information gathering tool - OSINT
 GasMasK is an open source tool licensed under GPLv3.
-Written by: @maldevel, mikismaos, xvass, ndamoulianos, sbrb
-https://www.twelvesec.com/
-Please visit https://github.com/twelvesec/gasmask for more..
 
 usage: gasmask.py [-h] [-d DOMAIN] [-s NAMESERVER] [-x PROXY] [-l LIMIT]
                   [-i MODE] [-o BASENAME] [-k API-KEY] [-e SPYSE_API_KEY]
@@ -226,11 +214,4 @@ python gasmask.py -i censys -u
 
 ---
 
-### Credits
 
-* [EmailHarvester](https://github.com/maldevel/EmailHarvester)
-* [theHarvester](https://github.com/laramies/theHarvester)
-* [Sublist3r](https://github.com/aboul3la/Sublist3r)
-* [gelim](https://github.com/gelim/censys)
-
----
